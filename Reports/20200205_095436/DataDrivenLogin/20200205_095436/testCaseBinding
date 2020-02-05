@@ -1,0 +1,4 @@
+{"testCaseName":"Test Cases/Login - Iteration 1","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM\u0027","username":"\u0027John Doe\u0027"}}
+{"testCaseName":"Test Cases/Login - Iteration 2","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027g3/DOGG74jC3Flrr3yH+3I6QL+LnbhdE\u0027","username":"\u0027John Doe\u0027"}}
+{"testCaseName":"Test Cases/Login - Iteration 3","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM\u0027","username":"\u0027John D\u0027"}}
+{"testCaseName":"Test Cases/Login - Iteration 4","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027g3/DOGG74jC3Flrr3yH+3I6QL+LnbhdE\u0027","username":"\u0027John D\u0027"}}

@@ -1,0 +1,4 @@
+{"testCaseName":"Test Cases/Login - Iteration 1","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027pass\u0027","username":"\u0027root\u0027"}}
+{"testCaseName":"Test Cases/Login - Iteration 2","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027passwd\u0027","username":"\u0027johndoe\u0027"}}
+{"testCaseName":"Test Cases/Login - Iteration 3","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027sdfgrthrs\u0027","username":"\u0027jd\u0027"}}
+{"testCaseName":"Test Cases/Login - Iteration 4","testCaseId":"Test Cases/Login","bindedValues":{"password":"\u0027sdvgrthyr\u0027","username":"\u0027abd\u0027"}}
